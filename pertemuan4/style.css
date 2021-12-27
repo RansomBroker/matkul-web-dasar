@@ -1,0 +1,67 @@
+/* p {
+  font: arial;
+}
+
+.welcome {
+  color: turquoise;
+} */
+
+/* start */
+/* 
+h1 {
+  color: blue;
+}
+
+header h1 {
+  color: red;
+}
+
+main article h1 {
+  color: yellow;
+}
+
+main article h1 .top {
+  text-decoration: underline;
+  color: turquoise;
+} */
+/* end */
+
+article p {
+  color: green;
+}
+
+article h1 {
+  color: blue;
+}
+
+header p span {
+  font-weight: bold;
+}
+
+header p .green {
+  color: green;
+}
+
+article p.info#top {
+  background: blue;
+}
+
+article p.info {
+  background-color: yellow;
+}
+
+.button {
+  border: 1px solid black;
+}
+
+.confirm {
+  background: blue;
+}
+
+.cancel {
+  background: red;
+}
+
+.text-white {
+  color: white;
+}

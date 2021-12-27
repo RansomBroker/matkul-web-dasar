@@ -1,0 +1,35 @@
+header {
+  background: greenyellow;
+}
+
+main {
+  margin: 0 5%;
+  width: 30%;
+  float: left;
+  background: paleturquoise;
+}
+
+aside {
+  width: 30%;
+  float: left;
+  display: inline-block
+  background: rebeccapurple;
+}
+
+footer {
+  height: 250px;
+  background: darkgoldenrod;
+}
+
+.group:before,
+.group:after {
+  content: "";
+  display: table;
+}
+.group:after {
+  clear: both;
+}
+.group {
+  clear: both;
+  *zoom: 1;
+}

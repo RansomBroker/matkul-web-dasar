@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&display=swap");
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif, sans-serif;
+}
+
+.pixel {
+  font-size: 16px;
+  font-family: "Mochiy Pop P One", sans-serif;
+}
+
+.point {
+  font-size: 16pt;
+}
+
+.em {
+  font-size: 1em;
+}
+
+.persen {
+  font-size: 100%;
+}

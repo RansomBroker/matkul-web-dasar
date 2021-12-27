@@ -1,0 +1,53 @@
+a {
+  text-decoration: none;
+  color: black;
+}
+
+header nav {
+  text-align: center;
+  background-color: #d9d9d9;
+}
+
+header h1 {
+  text-align: center;
+}
+
+header p {
+  text-align: center;
+}
+
+header {
+  border-bottom: 1px #d9d9d9 solid;
+}
+
+main section {
+  text-align: left;
+  border-bottom: 1px #d9d9d9 solid;
+  padding-bottom: 1em;
+}
+
+.portofolio {
+  text-align: right;
+  border-bottom: 1px #d9d9d9 solid;
+}
+
+footer {
+  margin-top: 24px;
+}
+
+footer nav {
+  text-align: center;
+  background-color: #d9d9d9;
+}
+
+/* img */
+
+img {
+  width: 200px;
+}
+
+main {
+  display: flex;
+}
+main img {
+}
