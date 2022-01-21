@@ -65,9 +65,10 @@
     
 
 }
-
-
 .bg-green-light {
     background: #149C82 ;
 }
 
+.bg-radial{
+    background: radial-gradient(50% 50% at 50% 50%, #4EA897 48.38%, rgba(78, 169, 152, 0) 100%);
+}
